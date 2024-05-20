@@ -16,7 +16,7 @@
     <FileVersion>4.0.3.0</FileVersion>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Version>4.0.3.0</Version>
-    <RepositoryUrl></RepositoryUrl>
+    <RepositoryUrl>https://github.com/zhaocjcc/System.ValueTuple/commit/b048081d99c09da455ffda9471be860937c6facd</RepositoryUrl>
     <PackageId>Zhaocjcc.System.ValueTuple</PackageId>
   </PropertyGroup>
 </Project>
