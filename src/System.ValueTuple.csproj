@@ -2,7 +2,7 @@
   <PropertyGroup>
     <AssemblyName>System.ValueTuple</AssemblyName>
     <GenerateAssemblyInfo>True</GenerateAssemblyInfo>
-    <TargetFrameworks>net40;netstandard2.0</TargetFrameworks>
+    <TargetFrameworks>net40</TargetFrameworks>
   </PropertyGroup>
   <PropertyGroup>
     <LangVersion>11.0</LangVersion>
@@ -18,5 +18,7 @@
     <Version>4.0.3.0</Version>
     <RepositoryUrl>https://github.com/zhaocjcc/System.ValueTuple/commit/b048081d99c09da455ffda9471be860937c6facd</RepositoryUrl>
     <PackageId>Zhaocjcc.System.ValueTuple</PackageId>
+    <Description></Description>
+    <Title>System.ValueTuple for .NET Framework4.0</Title>
   </PropertyGroup>
 </Project>
